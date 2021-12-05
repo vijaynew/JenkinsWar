@@ -24,7 +24,7 @@ div {
 </head>
 <body>
 
-<h1>CSS Animation by vijayG</h1>
+<h1>Hey i am going to devlop this index while in short</h1>
 
 
 <h2>Jenkins Successfully Deloyed War file in Tomcat using pipleline project!</h2>
