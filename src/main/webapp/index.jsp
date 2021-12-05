@@ -4,8 +4,8 @@
 <head>
 <style> 
 div {
-  width: 300px;
-  height: 300px;
+  width: 700px;
+  height: 600px;
   background-color: red;
   position: relative;
   animation-name: example;
