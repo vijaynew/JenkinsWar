@@ -29,7 +29,6 @@ div {
 
 <h2>Jenkins Successfully Deloyed War file in Tomcat using pipleline project!</h2>
 <p>The animation-iteration-count property can be set to infinite to let the animation run for ever:</p>
-
 <div></div>
 
 </body>
